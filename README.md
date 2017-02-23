@@ -2,7 +2,7 @@
 ## Under Development ##
 
 #Checklist#
- * HTML/CSS Design *Done*
+ * HTML/CSS Design **Done**
  * Buttons
  * Lockscreen
  * Menu
